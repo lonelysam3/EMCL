@@ -1,7 +1,7 @@
 # Elite Mister Chef Launcher
 [中文](README.zh_hans.md) | English
 
-EMCL is a free and modern Minecraft Launcher,trying to make a better environment for Rivals Minecraft Server.
+EMCL is a free and modern Minecraft Launcher, trying to make a better environment for Whitenight Minecraft Server.
 # Usage
 _Not yet implemented_
 # Platform
