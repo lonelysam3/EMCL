@@ -14,10 +14,10 @@ Windows 10 and above
 Please Use x86 framework CPU, others may lead to errors. 
 # Update plan
 ## 2026
-- Complete frontend development, plan electron porting route.
+- Complete frontend development, plan Electron porting route.
 ## 2027
 - **Jan.-Jun.** Electron porting.
-- **Jun.-Aug.** Basic backend development, core launcher will be available after August.
-- **Aug.-Dec.** Advanced functions development.
-## 2028-future 
-- Fix bugs and seek more practical functions.
+- **Jul.-Aug.** Basic backend development, core launcher will be available after August.
+- **Sep.-Dec.** Advanced functions development.
+## 2028+
+- Fix bugs and collect more practical functions.
