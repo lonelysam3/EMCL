@@ -5,6 +5,6 @@ EMCL is a free and modern Minecraft Launcher,trying to make a better environment
 # Usage
 _Not yet implemented_
 # Platform
-Windows 7 and above,Linux
+Windows 10 and above
 
 Please Use x86 framework CPU,others may lead to errors. 
