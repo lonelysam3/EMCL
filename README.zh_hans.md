@@ -1,7 +1,7 @@
 # Elite Mister Chef Launcher
 中文 | [English](README.md)
 
-EMCL是一个免费的现代启动器，试图为Rivals服务器的玩家创造一个更好的环境。
+EMCL是一个免费的现代启动器，试图为Whitenight服务器的玩家创造一个更好的环境。
 # 使用
 _尚未完成_
 # 平台
