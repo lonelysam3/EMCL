@@ -11,7 +11,7 @@ _We picked up this project after 3 years of High school life._
 
 _Maybe we could make it to be available soon._
 
-## Platform
+# Platform
 
 Windows 10 and above
 
